@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "firstname":"Richard",
+        "lastname": "Carlsson",
+        "vacation": "Sweden"
+
+    },
+    {
+        "id":2,
+        "firstname":"Erica",
+        "lastname": "Carlsson",
+        "vacation": "Denmark"
+
+    },
+    {
+        "id":3,
+        "firstname":"Eddie",
+        "lastname": "Vetej",
+        "vacation": "Somewhere"
+
+    },
+    {
+        "id":4,
+        "firstname":"Lisa",
+        "lastname": "Johnsson",
+        "vacation": "Sweden"
+
+    }
+]
