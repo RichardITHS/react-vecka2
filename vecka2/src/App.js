@@ -8,7 +8,12 @@ import ListRendering from './components/ListRendering' */
 /* import ListRendering2 from './components/ListRendering2'
  */
 /* import ListRendering3 from './components/ListRendering3' */
-import ListRendering4 from './components/ListRendering4'
+/* import ListRendering4 from './components/ListRendering4'
+ */
+/* import FormHandling from './components/FormHandling'
+ */
+import FormHandlingValidation from './components/FormHandlingValidation'
+
 function App() {
     return (
         <div className="App">
@@ -19,7 +24,11 @@ function App() {
             {/*             <ListRendering2/>
              */}
             {/*  <ListRendering3/> */}
-            <ListRendering4/>
+            {/*             <ListRendering4/>
+             */}
+            {/*             <FormHandling />
+             */}
+             <FormHandlingValidation/>
         </div>
     )
 }
