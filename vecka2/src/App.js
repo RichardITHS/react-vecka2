@@ -1,4 +1,5 @@
 import './App.css'
+import StyledComponents from './components/StyledComponents'
 
 //Importer av komponter
 /* import ConditionalRendering from './components/ConditionalRendering'
@@ -12,7 +13,13 @@ import ListRendering from './components/ListRendering' */
  */
 /* import FormHandling from './components/FormHandling'
  */
-import FormHandlingValidation from './components/FormHandlingValidation'
+/* import FormHandlingValidation from './components/FormHandlingValidation'
+ */
+
+//Styling
+/* import Inline from './components/Inline'
+
+ */
 
 function App() {
     return (
@@ -28,7 +35,11 @@ function App() {
              */}
             {/*             <FormHandling />
              */}
-             <FormHandlingValidation/>
+            {/*              <FormHandlingValidation/>
+             */}
+            {/*             <Inline />
+             */}
+            <StyledComponents />
         </div>
     )
 }
